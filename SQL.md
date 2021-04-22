@@ -4,7 +4,6 @@
 
 # Sumário
 
-- [Boas vindas ao repositório do teste de SQL da empresa Port Louis!](#Boas vindas ao repositório do teste de SQL da empresa Port Louis)
 - [Sumário](#sumário)
 - [Lista de requisitos](#lista-de-requisitos)
 
