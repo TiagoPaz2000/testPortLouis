@@ -7,10 +7,10 @@
 - [Boas vindas ao repositório do teste de SQL da empresa Port Louis!](#Boas vindas ao repositório do teste de SQL da empresa Port Louis)
 - [Sumário](#sumário)
 - [Lista de requisitos](#lista-de-requisitos)
-  - [1) Escreva uma query SQL para imprimir os detalhes dos Workers cujo salário está entre 100000 e 500000.](#1 - Escreva uma query SQL para imprimir os detalhes dos Workers cujo salário está entre 100000 e 500000.)
-  - [2) Escreva uma query SQL para imprimir os detalhes dos Workers que incressaram em Fevereiro de 2014.](#2 - Escreva uma query SQL para imprimir os detalhes dos Workers que incressaram em Fevereiro de 2014.)
-  - [3) Escreva uma query SQL para imprimir os detalhes dos Workers que têm os mesmos salários.](#3 - Escreva uma query SQL para imprimir os detalhes dos Workers que têm os mesmos salários.)
-  - [4) Escreva uma query SQL para imprimir os detalhes dos Workers que têm o maior salário de cada departamento.](#4 - Escreva uma query SQL para imprimir os detalhes dos Workers que têm o maior salário de cada departamento.)
+  - [1) Escreva uma query SQL para imprimir os detalhes dos Workers cujo salário está entre 100000 e 500000.](###1 - Escreva uma query SQL para imprimir os detalhes dos Workers cujo salário está entre 100000 e 500000.)
+  - [2) Escreva uma query SQL para imprimir os detalhes dos Workers que incressaram em Fevereiro de 2014.](###2 - Escreva uma query SQL para imprimir os detalhes dos Workers que incressaram em Fevereiro de 2014.)
+  - [3) Escreva uma query SQL para imprimir os detalhes dos Workers que têm os mesmos salários.](###3 - Escreva uma query SQL para imprimir os detalhes dos Workers que têm os mesmos salários.)
+  - [4) Escreva uma query SQL para imprimir os detalhes dos Workers que têm o maior salário de cada departamento.](###4 - Escreva uma query SQL para imprimir os detalhes dos Workers que têm o maior salário de cada departamento.)
 
 ## Lista de requisitos:
 
